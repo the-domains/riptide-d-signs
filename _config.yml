@@ -1,0 +1,28 @@
+name: "Riptide D'signs"
+favicon: null
+layout_spectrum: 0.5959819932468235
+typography_spectrum: 0.6127858443651348
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.5460692329797894
+  lightness: 0.7436928518582135
+  saturation: 0.7522151053417474
+  rhythmicContrast: 0.5964117725379765
+purpose: []
