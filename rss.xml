@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Riptide D'signs]]></title>
         <description><![CDATA[Riptide D'signs]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/riptide-d-signs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Apr 2016 15:58:32 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 06 Jun 2016 21:45:11 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/riptide-d-signs/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>This website is under construction!</p>]]></description>
+            <link>https://thegrid.ai/riptide-d-signs/this-website-is-under-construction/index.html</link>
+            <guid isPermaLink="false">d3372b9d-4cf4-4be4-9d2f-6ee97f43a051</guid>
+            <pubDate>Mon, 06 Jun 2016 21:45:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/daa48e15-76f1-4963-b19f-d591739dfc85.jpg">]]></description>
-            <link>undefinedwelcome-to-riptide-dsigns-website/index.html</link>
+            <link>https://thegrid.ai/riptide-d-signs/welcome-to-riptide-dsigns-website/index.html</link>
             <guid isPermaLink="false">ffb0c770-8e01-48cb-81f8-9954f402d05b</guid>
             <pubDate>Mon, 11 Apr 2016 15:58:21 GMT</pubDate>
         </item>
